@@ -1,4 +1,4 @@
-// gcc -o mygps mygps.c -lm -lgps
+// gcc -o mygps mygps.c -lgps
  
 #include <gps.h>
  
